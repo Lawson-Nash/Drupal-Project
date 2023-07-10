@@ -1,2 +1,2 @@
 # Drupal-Project
-This is a repository to move Drupal source code. 
+This is an example repository to display Drupal source code. 
